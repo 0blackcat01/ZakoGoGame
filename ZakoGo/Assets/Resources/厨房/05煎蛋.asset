@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ab66aac7513ce842bc5e77ac28dd229, type: 3}
+  m_Name: "05\u714E\u86CB"
+  m_EditorClassIdentifier: 
+  recipeId: 5
+  Food: {fileID: 11400000, guid: 048e7ef101958d64991033b369a42e9d, type: 2}
+  requiredKitchenLevel: 1
+  cookingTime: 1800
+  ingredients:
+  - Item: {fileID: 11400000, guid: 3e557e52649dc5844986b701cdd73b79, type: 2}
+    amount: 1

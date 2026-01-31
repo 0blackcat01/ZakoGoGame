@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17139a6861a501a49a21ae1aac7f2db6, type: 3}
+  m_Name: "01\u5973\u4EC6\u53D1\u9970"
+  m_EditorClassIdentifier: 
+  item: {fileID: 11400000, guid: cea8aba0472875745938a9398c565ab4, type: 2}
+  gun: {fileID: 0}
+  items:
+  - {fileID: 11400000, guid: 868d554ecb119d54aa33a96e1eecc5c3, type: 2}
+  - {fileID: 11400000, guid: 76fa3b08e6680c9498746fa5826439e1, type: 2}
+  amount: 0300000001000000
+  NeedMoney: 0

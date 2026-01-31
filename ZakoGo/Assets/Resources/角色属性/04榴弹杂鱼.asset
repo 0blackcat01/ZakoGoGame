@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b66972252da8e48a5208db42b09d47, type: 3}
+  m_Name: "04\u69B4\u5F39\u6742\u9C7C"
+  m_EditorClassIdentifier: 
+  NpcID: 4
+  HpMax: 75
+  Attack: 0
+  Denfense: 0
+  WalkSpeed: 2
+  LvNum: 3
+  FireRate: 4
+  GunRotation: 0
+  WinBoxPrefab: {fileID: 9155162368382152516, guid: 17eb7c81e06a10247bd4871175f0e92c, type: 3}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dc63f30625d3274abb66801e56657dd, type: 3}
+  m_Name: Wine-red Admire
+  m_EditorClassIdentifier: 
+  GunImg: {fileID: 496864816, guid: 893c89d9ec1532844aa0c23f8d0c44d4, type: 3}
+  GunChangeBulletImg: {fileID: -1171663509, guid: 893c89d9ec1532844aa0c23f8d0c44d4, type: 3}
+  BulletImg: {fileID: 21300000, guid: 20ba73e6d62ab034ebf6433489a948ac, type: 3}
+  BulletSpriteIndex: 0
+  clip: {fileID: 8300000, guid: 45062b78f9e3e8142b5a2a4e40e5cdaf, type: 3}
+  Isbreak_audio: 0
+  GunID: 1
+  GunName: Wine-red Admire
+  TolBulletNum: 20
+  BulletNum: 5
+  BulletBoxNum: 5
+  reloadTime: 3
+  BulletDieTime: 10
+  GunCritRate: 20
+  GunCritNum: 2
+  GunAddPos: {x: 0, y: 0, z: 0}
+  Bullet: {fileID: 11400000, guid: 601d66775408b7c499b4a458a9d20c82, type: 2}
+  AttackNum: 50
+  FireRate: 1
+  GunRotation: 0
+  moveSpeedMultiplier: 1
+  ScreenShakeTime: 0.3
+  ScreenShakePower: 0.1
+  PerParticleNum: 1
+  DurabilityNum: 50000
+  ValueMoney: 5000
+  GunInfo: "Wine-red Admire\n\u963F\u9732\u5E73\u65F6\u5341\u5206\u91CD\u89C6\uFF0C\u53E4\u98CE\u8BBE\u8BA1\u7684\u72D9\u51FB\u6B65\u67AA\u3002\r\n\u4EC5\u4EC5\u662F\u62FF\u7740\u5B83\uFF0C\u597D\u50CF\u2026\u2026\u51B7\u786C\u7684\u7A0B\u5EA6\u5C31\u63D0\u5347\u4E86\u3002"

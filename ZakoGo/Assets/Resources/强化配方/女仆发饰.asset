@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2679e1b729b465e4d85a82a36509e6e7, type: 3}
+  m_Name: "\u5973\u4EC6\u53D1\u9970"
+  m_EditorClassIdentifier: 
+  EnhanceItemID: 301
+  level: 1
+  ingredients:
+  - item:
+    - {fileID: 11400000, guid: 868d554ecb119d54aa33a96e1eecc5c3, type: 2}
+    - {fileID: 11400000, guid: cf54c647fc455fc40ac7da483bda697b, type: 2}
+    amount: 0300000002000000
+    NeedMoney: 0
+    RecipeId: 0
+    Food: {fileID: 0}
+    SuccessfulRate: 40
+  - item:
+    - {fileID: 11400000, guid: 868d554ecb119d54aa33a96e1eecc5c3, type: 2}
+    - {fileID: 11400000, guid: cf54c647fc455fc40ac7da483bda697b, type: 2}
+    amount: 0500000005000000
+    NeedMoney: 100
+    RecipeId: 0
+    Food: {fileID: 0}
+    SuccessfulRate: 100

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 405cca58b3cfc5641af9d405819bb685, type: 3}
+  m_Name: "108\u6C34\u8272\u62D6\u978B"
+  m_EditorClassIdentifier: 
+  ItemId: 108
+  BoxItemNum: 0
+  BagItemNum: 0
+  OtherItemNum: 0
+  ItemName: "\u6C34\u8272\u62D6\u978B"
+  ItemImg: {fileID: 1923528947, guid: 6097a4b689e03a941ad40f79c1cfe6e7, type: 3}
+  itemtype: 2
+  IsStack: 0
+  RealMoney: 10
+  ItemValue: 2
+  ItemValueNum: 0
+  ItemInfo: "\u65E0\u8BBA\u662F\u5B85\u5BB6\u653E\u677E\uFF0C\u8FD8\u662F\u4E0B\u697C\u6563\u6B65\uFF0C\u5B83\u90FD\u80FD\u4E3A\u4F60\u5E26\u6765\u5982\u6C34\u822C\u6E29\u67D4\u3001\u6E05\u51C9\u7684\u966A\u4F34\u3002\n+0.3\u79FB\u901F"
+  HPAddtion: 
+  SpeedAddtion:
+  - 0.3
+  DenfenseAddtion: 
+  CritRateAddtion: 
+  HatedAddtion: 
+  IsOpenDecoration: 0
+  FindRate: 0
+  FindPoint: 
+  BagAddtion: 0
+  EatingTime: 0
+  CropData: {fileID: 0}

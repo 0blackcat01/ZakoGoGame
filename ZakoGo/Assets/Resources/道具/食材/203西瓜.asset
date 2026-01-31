@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 405cca58b3cfc5641af9d405819bb685, type: 3}
+  m_Name: "203\u897F\u74DC"
+  m_EditorClassIdentifier: 
+  ItemId: 203
+  BoxItemNum: 0
+  BagItemNum: 0
+  OtherItemNum: 0
+  ItemName: "\u897F\u74DC"
+  ItemImg: {fileID: -422907459, guid: 6b438dfa258a6504c8d2296b67752016, type: 3}
+  itemtype: 5
+  IsStack: 1
+  RealMoney: 10
+  ItemValue: 0
+  ItemValueNum: 0
+  ItemInfo: "\u98DF\u6750"
+  HPAddtion: 0a000000
+  SpeedAddtion: 
+  DenfenseAdddtion: 
+  FindRate: 80
+  FindPoint: 03000000
+  BagAddtion: 0
+  EatingTime: 4
+  CropData: {fileID: 0}

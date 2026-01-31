@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b47770793ee96a64a8f09df294766b30, type: 3}
+  m_Name: "\u4E00\u9636\u6BB5\u5C5E\u6027"
+  m_EditorClassIdentifier: 
+  lvs:
+  - Name: "\u751F\u547D\u7ED3\u6676"
+    Hp: 1
+    Denfense: 0
+    MoveSpeed: 0
+    CritRate: 0
+    SkillNum: 0
+    CostRestoreNum: 0
+  - Name: "\u9632\u5FA1\u7ED3\u6676"
+    Hp: 0
+    Denfense: 1
+    MoveSpeed: 0
+    CritRate: 0
+    SkillNum: 0
+    CostRestoreNum: 0
+  - Name: "\u901F\u5EA6\u7ED3\u6676"
+    Hp: 0
+    Denfense: 0
+    MoveSpeed: 0.1
+    CritRate: 0
+    SkillNum: 0
+    CostRestoreNum: 0
+  - Name: "\u66B4\u51FB\u7ED3\u6676"
+    Hp: 0
+    Denfense: 0
+    MoveSpeed: 0
+    CritRate: 0.2
+    SkillNum: 0
+    CostRestoreNum: 0
+  - Name: "\u6280\u80FD\u7ED3\u6676"
+    Hp: 0
+    Denfense: 0
+    MoveSpeed: 0
+    CritRate: 0
+    SkillNum: 1
+    CostRestoreNum: 0
+  - Name: "\u5145\u80FD\u7ED3\u6676"
+    Hp: 0
+    Denfense: 0
+    MoveSpeed: 0
+    CritRate: 0
+    SkillNum: 0
+    CostRestoreNum: 1
